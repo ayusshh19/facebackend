@@ -34,7 +34,6 @@ joblib==1.2.0
 kiwisolver==1.4.4
 lxml==4.9.1
 matplotlib==3.6.2
-mysqlclient==2.1.1
 numpy==1.23.3
 opencv-contrib-python==4.7.0.68
 opencv-python==4.6.0.66
