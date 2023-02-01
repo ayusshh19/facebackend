@@ -17,7 +17,6 @@ dj-database-url==1.0.0
 Django==4.0.2
 django-bootstrap-icons==0.7.9
 django-cors-headers==3.13.0
-django-heroku==0.3.1
 django-pandas==0.6.6
 djangorestframework==3.13.1
 dlib @ https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl
